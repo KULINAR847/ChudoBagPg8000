@@ -5,7 +5,7 @@ If execute update_script.py all done seccess.
 
 BUT...
 
-Something interesting happens when you uncommented 203 string in getRecipe.sql and comment 204. These lines are absolutely identical)
+Something interesting happens when you uncommented 203 string in public_function.sql and comment 204. These lines are absolutely identical)
 
 ![image](https://user-images.githubusercontent.com/40752666/141078826-95bb5dea-2a6e-4ad8-829d-4f577c8638ca.png)
 
