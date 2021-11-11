@@ -1,7 +1,7 @@
 # ChudoBagPg8000
 Unexpected behavior pg8000
 
-If execute update_script.py all done seccess.
+If execute update_script.py all done success.
 
 BUT...
 
