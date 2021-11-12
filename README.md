@@ -7,7 +7,7 @@ BUT...
 
 Something interesting happens when you uncommented 12 string in update_script.py and comment 11. These lines are absolutely identical)
 
-![image](https://user-images.githubusercontent.com/40752666/141417317-74d100d5-f866-47c8-bc7f-6ff53f6235b5.png)
+![image](https://user-images.githubusercontent.com/40752666/141421204-394d25a8-6736-46f8-a9bd-4f2c5a7b532b.png)
 
 You get:
 
