@@ -5,7 +5,7 @@ If execute update_script.py all done success.
 
 BUT...
 
-Something interesting happens when you uncommented 12 string in update_script.py and comment 11. These lines are absolutely identical)
+Something interesting happens when you uncommented 19 string in update_script.py and comment 20. These lines are absolutely identical)
 
 ![image](https://user-images.githubusercontent.com/40752666/141421204-394d25a8-6736-46f8-a9bd-4f2c5a7b532b.png)
 
