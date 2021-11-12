@@ -7,7 +7,7 @@ BUT...
 
 Something interesting happens when you uncommented 16 string in public_function.sql and comment 17. These lines are absolutely identical)
 
-![image](https://user-images.githubusercontent.com/40752666/141255408-1e955ac0-0f2c-4a0f-878d-1cc034684f58.png)
+![image](https://user-images.githubusercontent.com/40752666/141417317-74d100d5-f866-47c8-bc7f-6ff53f6235b5.png)
 
 You get:
 
